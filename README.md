@@ -8,6 +8,6 @@ Database: MySQL
 Name: onn_db
 User: root
 Password: lak868
-Port: 5432
+Port: 3306
 Authentication: /token with superuser credentials
 Localhost port: 8000
